@@ -1,4 +1,4 @@
-# Docker-Echo
+# Docker Hello World
 
 ## Reason
 
@@ -7,3 +7,6 @@ them and put them on Docker Hub.
 
 Adapted from [Derrick's HackLafayette Talk](https://github.com/dskard/hl-tt-docker-201905).
 
+## Status
+
+As of this point, I have put it on Github, so connecting to my [Docker Hub Page](https://hub.docker.com/u/jacoby), is next.
